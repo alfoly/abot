@@ -9,7 +9,6 @@ namespace Abot.Util
         bool Contains(T item);
     }
 
-
 	/// <summary>
 	/// Bloom filter.
 	/// </summary>
